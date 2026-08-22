@@ -1,3 +1,10 @@
-#hi sir roffe! have a nice day po!
-#NAME: Nikolai Kirk B. Arjona 
-#AGE & BIRTHDAY: 14, Feb 23, 2012
+# 9BerylliumCS3
+
+
+## Project Files
+* [CT Skills Text File](q1/ctskillsBerylliumARJONA)
+* [Zodiac Python Script](q1/zodiacBerylliumARJONA)
+
+## Quarter 1 Activities 
+
+- [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
