@@ -30,7 +30,8 @@ product is close to its expiration date. A single loop can process different “
 objects and call “.calculate_discount()” or “.get_details()” without checking each object’s
 class.
 
-Reflection
+Reflection:
+
 Among the four pillars, Encapsulation is the most important for a sari-sari store inventory 
 system. Accurate stock levels and pricing are essential to avoid inventory errors and 
 financial loss. By requiring all changes to pass through validated methods, encapsulation 
