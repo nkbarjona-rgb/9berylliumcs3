@@ -11,7 +11,7 @@
 | Material | string | Type of Material used for the Eyeglasses' frame |
 ## Methods
 | Method | Description |
-|---|---|| | |
+|---|---| | |
 | Wear | Wear the Eyeglasses| 
 | Clean | Clean the Eyeglasses| 
 | Donate | Donate the Eyeglasses| 
