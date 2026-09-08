@@ -4,7 +4,7 @@ Link to my previous activity:
 [q1/classObjectUML.md](q1/classObjectUML.md)
 
 ## Design Revision
-- No Major Changes were made to my Original Design
+- No major changes were made to my original design
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
@@ -19,7 +19,7 @@ Link to my previous activity:
 ![Class Diagram](ImagesQ1/updatedUMLTtable.png)
 
 ## Python Implementation
-
+[q1/classImplementation.py](q1/classImplementation.py)
 
 ## Test Run
 
