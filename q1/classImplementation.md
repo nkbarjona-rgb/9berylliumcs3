@@ -1,7 +1,7 @@
 # Class Attributes and Methods
 ## Previous Activity
 Link to my previous activity:
-[q1/classObjectUML.md](q1/classObjectUML.md)
+[q1/classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
 - No major changes were made to my original design
