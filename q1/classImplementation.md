@@ -16,7 +16,7 @@ maya na po sir
 | Material | String | Private | Type of Material used for the Eyeglasses Frame |
 
 ## Updated UML Class Diagram
-![Class Diagram](ImagesInQ1/classdiagramSG5.png)
+![Class Diagram](ImagesQ1/classdiagramSG5.png)
 
 ## Python Implementation
 
