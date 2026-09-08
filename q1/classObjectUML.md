@@ -20,9 +20,9 @@
 ![Class Diagram](ImagesQ1/classdiagramSG5.png)
 ## Design Explanation
 ### Why did you choose this class?: 
-I chose this class because Eyeglasses is something I use in my day to day life, and it amazes me on the ammount of properties it has. 
+I chose this class because Eyeglasses are something I use in my day to day life, and it amazes me on how much it has helped me in life. 
 ### Which property is the most important? Why?: 
-The most important property for me is, "Grade" as someone who wears Eyeglasses everyday, I just need the grade of the Lens to fit mine so that I could use it. Grade is also the property that's used to aid the wearers eyes
+The most important property for me is, "Grade" as someone who wears Eyeglasses everyday, I just need the grade of the Lens to fit mine so that I could use it. Grade is also the property that's used to aid the wearers eyes.
 ### Which method is the most useful? Why?" 
 The most useful method is, "Wear" because you need to wear the glasses for it to actually aid your eyes.
 
