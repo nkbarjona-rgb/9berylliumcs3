@@ -1,7 +1,7 @@
 # Class Attributes and Methods
 ## Previous Activity
 Link to my previous activity:
-maya na po sir
+[q1/classObjectUML.md](q1/classObjectUML.md)
 
 ## Design Revision
 - No Major Changes were made to my Original Design
