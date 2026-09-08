@@ -16,7 +16,6 @@
 | Clean | Clean the Eyeglasses | 
 | Donate | Donate the Eyeglasses | 
 
-| | |
 ## Class Diagram
 ![Class Diagram](q1/ClassDiagram.png)
 ## Design Explanation
