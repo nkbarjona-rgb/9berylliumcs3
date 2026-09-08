@@ -1,4 +1,4 @@
-class Sport:
+class Eyeglases:
 
     def __init__(
         self,
