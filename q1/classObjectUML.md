@@ -17,7 +17,7 @@
 | Donate | Donate the Eyeglasses | 
 
 ## Class Diagram
-![Class Diagram](q1/classdiagramSG5.png)
+![Class Diagram](ImagesQ1/classdiagramSG5.png)
 ## Design Explanation
 ### Why did you choose this class?: 
 I chose this class because Eyeglasses is something I use in my day to day life, and it amazes me on the ammount of properties it has. 
