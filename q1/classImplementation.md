@@ -19,7 +19,7 @@ Link to my previous activity:
 ![Class Diagram](ImagesQ1/updatedUMLTtable.png)
 
 ## Python Implementation
-[q1/classImplementation.py](q1/classImplementation.py)
+[classImplementation.py](classImplementation.py)
 
 ## Test Run
 
