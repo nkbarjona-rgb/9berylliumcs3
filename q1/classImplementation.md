@@ -1,7 +1,7 @@
 # Class Attributes and Methods
 ## Previous Activity
 Link to my previous activity:
-[classObjectUML.md](classObjectUML.md)
+maya na po sir
 
 ## Design Revision
 - No Major Changes were made to my Original Design
@@ -14,3 +14,7 @@ Link to my previous activity:
 | Size | int | Public | The Lens and Bridge width, and Temple Length of the Eyeglasses |
 | Grade | int | Private | The "Grade" of the Eyeglasses Lens |
 | Material | String | Private | Type of Material used for the Eyeglasses Frame |
+
+## Updated UML Class Diagram
+![Class Diagram](q1/classdiagram.png.png)
+
