@@ -11,5 +11,5 @@
 - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
 ## OOPAct
-- [OOPact-PartI](classObjectUML.md)
+- [OOPact-PartI](q1/classObjectUML.md)
 - [OOPact-PartII](q1/classImplementation.md)
