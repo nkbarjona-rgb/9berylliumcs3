@@ -1,4 +1,5 @@
-# 9BerylliumCS3
+# Nikolai Kirk B. Arjona
+# 9 - BERYLLIUM
 
 
 ## Project Files
@@ -6,5 +7,7 @@
 * [Zodiac Python Script](q1/zodiacBerylliumARJONA)
 
 ## Quarter 1 Activities 
-
 - [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
+## OOPAct
+- 
