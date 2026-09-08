@@ -28,3 +28,18 @@ Link to my previous activity:
 ![Object Diagram](ImagesQ1/UPD2TABLE.png)
 
 ## Analysis
+
+## Why did you make your chosen attributes private?
+Grade and Material are private to enforce encapsulation, and data privacy or protection.
+
+## Which method changes the state of your object?
+"Update Grade" and "Change Material"
+
+## How did your two objects demonstrate that instances are independent?
+The two instances, reading_glasses and myopia_glasses, demonstrated independence during the grade update action:
+When reading_glasses.update_grade(2) was executed, only reading_glasses had its grade updated from 1 to 2.
+The myopia_glasses instance remained completely unchanged with a grade of
+
+## What is the difference between your class diagram and your object diagram?
+Class diagram: The blueprint showing the general structure (attributes and methods) without any actual data.
+Object diagram: A snapshot showing real instances holding specific values at a single point in time.
