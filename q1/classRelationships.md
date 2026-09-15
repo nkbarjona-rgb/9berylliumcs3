@@ -60,5 +60,5 @@ Explanation: A customer can own zero or many pairs of eyeglasses, while each eye
 ### If your relationship uses many, why is a list appropriate?
 
 ### LLM Prompt Used AND Proof
-![LLM.1](
-![LLM.2](
+![LLM.1](ImagesQ1/LLM-2.0.png)
+![LLM.2](ImagesQ1/LLM.png)
