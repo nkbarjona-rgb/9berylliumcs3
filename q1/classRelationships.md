@@ -16,7 +16,8 @@ Description: All eyeglasses come in a wide variety of shapes, sizes, and frame t
 ## New Related Class
 Class: Customer
 
-Description: Represents a customer who buys many eyeglasses
+Description:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b3307c3-7867-4a1a-bb35-df24bc507fcc" />
+
 
 
 ## Association
