@@ -24,9 +24,9 @@ class Customer:
 
 customer = Customer("Nikobitara")
 
-g1 = Eyeglasses("Metal", "Grade 100", "Round")
-g2 = Eyeglasses("Plastic", "Grade 200", "Square")
-g3 = Eyeglasses("Wire", "Grade 150", "Oval")
+g1 = Eyeglasses("Rimless", "Grade 100", "Round")
+g2 = Eyeglasses("Full Rim", "Grade 200", "Square")
+g3 = Eyeglasses("Semi Rimless", "Grade 150", "Oval")
 
 print("--- BEFORE RELATIONSHIP ---")
 print(g1.display_info())
