@@ -22,20 +22,20 @@ Description: Represents a customer who buys many eyeglasses
 ## Association
 Relationship: Customer HAS-A Eyeglasses
 
-Explanation: 
+Action Phrase: "owns" 
 
 
 ## Multiplicity
-Multiplicity: 1 : 
+Multiplicity: 1 : 0 (One To Many)
 
-Explanation: 
+Explanation: A customer can own zero or many pairs of eyeglasses, while each eyeglasses object belongs to one customer. This lets us store multiple object references in a Python List. (rewrite)
 
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](link
 
 ## Python Implementation
-[View Python Source](link
+[View Python Source](link to python file basta
 
 
 ## Test Run
