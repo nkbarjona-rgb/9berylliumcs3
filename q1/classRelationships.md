@@ -8,19 +8,19 @@ Links to my previous activities:
 
 
 ## Existing Class
-Class: 
+Class: Eyeglasses
 
-Description: 
+Description: maya
 
 
 ## New Related Class
-Class: 
+Class: Customer
 
-Description: 
+Description: Represents a customer who buys many eyeglasses
 
 
 ## Association
-Relationship: 
+Relationship: Customer HAS-A Eyeglasses
 
 Explanation: 
 
