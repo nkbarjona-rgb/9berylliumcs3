@@ -33,7 +33,7 @@ Explanation: A customer can own zero or many pairs of eyeglasses, while each eye
 
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](link sa iamage folder
+![Class Relationship Diagram](ImagesQ1/NewUML.png)
 
 ## Python Implementation
 [View Python Source](classRelationships.py)
