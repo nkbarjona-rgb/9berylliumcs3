@@ -1,10 +1,10 @@
 # Class Relationships: Association and Multiplicity
-## Previous Work
-
+## Previous Activities
+Links to my previous activities:
 
 [Part I - Classes and Objects](classObjectUML.md)
 
-[Part II - Class Attributes and Methods](classAttributesMethods.md)
+[Part II - Class Attributes and Methods](classImplementation.md)
 
 
 ## Existing Class
