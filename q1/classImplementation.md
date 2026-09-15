@@ -4,7 +4,7 @@ Link to my previous activity:
 [q1/classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
-- No major changes were made to my original design
+- Changed the Description of the Class, and Design Explanation
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
