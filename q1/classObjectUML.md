@@ -1,6 +1,9 @@
 # SG4 - Understanding Classes and Objects
-## Class Name: Eyeglassess
-## Class Description: All eyeglasses come in a wide variety of shapes, sizes, and frame types to match your unique style and face structure. Additionally, they feature custom prescription lenses, or "grades," which are specially crafted to correct your specific vision needs and give you perfect clarity.
+## Class Name: 
+Eyeglassess
+## Class Description:
+All eyeglasses come in a wide variety of shapes, sizes, and frame types to match your unique style and face structure. Additionally, they feature custom prescription lenses, or "grades," which are specially crafted to correct your specific vision needs and give you perfect clarity.
+
 ## Properties: 
 | Property | Data Type | Description |
 |---|---|---|
