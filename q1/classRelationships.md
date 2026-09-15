@@ -43,7 +43,7 @@ Explanation:
 
 
 ## Object Relationship Diagram
-![Object Relationship Diagram](link
+![Object Relationship Diagram](link nya later
 
 
 ## Analysis
