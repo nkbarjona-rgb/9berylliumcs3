@@ -10,7 +10,7 @@ Links to my previous activities:
 ## Existing Class
 Class: Eyeglasses
 
-Description: maya
+Description: All eyeglasses come in a wide variety of shapes, sizes, and frame types to match your style and face. Additionally, they feature custom prescription lenses, which are numerically sorted trough "grades," these lens are specially crafted to correct your specific vision needs and give you perfect clarity.
 
 
 ## New Related Class
