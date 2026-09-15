@@ -13,3 +13,4 @@
 ## OOPAct
 - [OOPact-PartI](q1/classObjectUML.md)
 - [OOPact-PartII](q1/classImplementation.md)
+- [OOPact-PartIII](q1/classRelationships.md) 
