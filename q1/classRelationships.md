@@ -1,6 +1,6 @@
 # Class Relationships: Association and Multiplicity
 ## Previous Activities
-Links to my previous activities:
+Link to my previous activities:
 
 [Part I - Classes and Objects](classObjectUML.md)
 
