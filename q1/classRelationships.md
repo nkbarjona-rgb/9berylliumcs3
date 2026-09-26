@@ -45,7 +45,7 @@ Explanation: A customer can own zero or many pairs of eyeglasses, while each eye
 
 
 ## Object Relationship Diagram
-![Object Relationship Diagram](link sa image folder
+![Object Relationship Diagram](ImagesQ1/hehey)
 
 
 ## Analysis
