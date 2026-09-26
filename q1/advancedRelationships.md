@@ -47,7 +47,7 @@ A customer can own multiple pairs of eyeglasses, but each pair can still exist i
 ![Advanced UML](images/advancedClassDiagram.png)
 
 ### Python Implementation
-![View Python Source Code](advancedRelationships.py)
+[View Python Source Code](advancedRelationships.py)
 
 ### Test Run
 ![Test](images/advancedTestRun.png)
