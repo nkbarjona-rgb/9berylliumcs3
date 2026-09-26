@@ -27,7 +27,7 @@ Action Phrase: "owns"
 
 
 ## Multiplicity
-Multiplicity: 1 : 0 (One To Many)
+Multiplicity: 1 : 0..* (One To Many)
 
 Explanation: A customer can own zero or many pairs of eyeglasses, while each eyeglasses object belongs to one customer. This lets us store multiple object references in a Python List. (rewrite)
 #
