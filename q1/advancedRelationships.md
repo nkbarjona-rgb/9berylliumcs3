@@ -1,4 +1,4 @@
-# IDK
+# Advanced Class Relationships
 ## Previous Activities
 Link to my previous activities:
 
@@ -7,14 +7,6 @@ Link to my previous activities:
 [Part II - Class Attributes and Methods](classImplementation.md)
 
 [Part III - Class Relationships: Association and Multiplicity](classRelationships.md)
-
-### Advanced Class Relationships
-   
-### Previous Activities
-
-* [classAttributesMethods](https://classAttributesMethods.md)
-
-* [classRelationships](https://classRelationships.md)
 
 ### Existing System Description
 
