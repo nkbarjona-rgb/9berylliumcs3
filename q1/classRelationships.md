@@ -50,14 +50,24 @@ Explanation: A customer can own zero or many pairs of eyeglasses, while each eye
 
 ## Analysis
 ### What is the association between your two classes?
+The association is a HAS-A relationship using the action phrase "owns". This represents ownership where the Customer class holds references to Eyeglasses objects rather than inheriting from them.
 
 ### What multiplicity did you choose and why?
+The multiplicity chosen is 1 : 0..* (One-to-Many).
+Customer side (1): Every specific pair of eyeglasses belongs to exactly one customer.
+Eyeglasses side (0..*): A customer can start with zero purchased eyeglasses (e.g., a newly registered user) or purchase multiple pairs over time (e.g., reading glasses, sunglasses, backup frames).
 
 ### How did you implement the relationship in Python?
+By storing Eyeglasses objects inside a list attribute within the Customer class:
 
 ### Why did you store an object reference instead of copying its data?
+FOR: 
+Consistency: Changes to a pair of glasses automatically update everywhere.
+Efficiency: Avoids duplicating memory and data.
+Separation of Concerns: Keeps customer info and product specs distinct.
 
 ### If your relationship uses many, why is a list appropriate?
+Dynamic size, Order preserved 
 
 ### LLM Prompt Used AND Proof
 ![LLM.1](ImagesQ1/LLM-2.0.png)
