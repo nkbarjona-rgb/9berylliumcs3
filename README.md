@@ -13,4 +13,5 @@
 ## Quarter 1 "OOPAct's"
 - [OOPact-PartI](q1/classObjectUML.md)
 - [OOPact-PartII](q1/classImplementation.md)
-- [OOPact-PartIII](q1/classRelationships.md) 
+- [OOPact-PartIII](q1/classRelationships.md)
+- [OOPact-Part1V](q1/advancedRelationships.md)
