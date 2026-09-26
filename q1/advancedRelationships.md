@@ -8,6 +8,8 @@ Link to my previous activities:
 
 [Part III - Class Relationships: Association and Multiplicity](classRelationships.md)
 
+#
+
 ### Existing System Description
 
 The system contains two classes: Eyeglasses and Customer. Eyeglasses stores information about a pair of glasses, while Customer stores a buyer and the eyeglasses they own. A customer can own zero or many pairs of eyeglasses, creating a one-to-many relationship.
@@ -22,6 +24,8 @@ Explanation:
 
 Reading glasses are a type of eyeglasses. They inherit all the common attributes and methods from the Eyeglasses class while adding a new attribute called reading_distance, making the design more organized and reducing duplicate code.
 
+#
+
 ### Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 
@@ -34,6 +38,8 @@ Type: Aggregation
 Explanation:
 
 A customer can own multiple pairs of eyeglasses, but each pair can still exist independently. If a customer is removed from the system, the eyeglasses object can still remain, so this is a weak HAS-A relationship (Aggregation).
+
+#
 
 ### Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
