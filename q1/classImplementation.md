@@ -28,7 +28,7 @@ Link to my previous activity:
 ## Object Diagram
 ![Object Diagram](ImagesQ1/UPD2TABLE.png)
 
-## Analysis
+### Analysis
 
 ## Why did you make your chosen attributes private?
 Grade and Material are private to enforce encapsulation, and data privacy or protection.
