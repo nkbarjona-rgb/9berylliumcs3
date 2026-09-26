@@ -1,6 +1,7 @@
 # Class Attributes and Methods
 ## Previous Activity
 Link to my previous activity:
+
 [q1/classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
