@@ -71,7 +71,7 @@ Consistency: So that changes to a pair of glasses automatically update everywher
 Efficiency: To avoids duplicating memory and data.
 
 Separation of Concerns: To keeps customer info and product specs distinct.
-
+#
 
 ### If your relationship uses many, why is a list appropriate?
 A LIST IS APPROPRIATE FOR:
