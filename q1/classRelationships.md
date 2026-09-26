@@ -62,12 +62,15 @@ By storing Eyeglasses objects inside a list attribute within the Customer class:
 
 ### Why did you store an object reference instead of copying its data?
 FOR: 
-Consistency: Changes to a pair of glasses automatically update everywhere.
-Efficiency: Avoids duplicating memory and data.
-Separation of Concerns: Keeps customer info and product specs distinct.
+Consistency: So that changes to a pair of glasses automatically update everywhere.
+Efficiency: To avoids duplicating memory and data.
+Separation of Concerns: To keeps customer info and product specs distinct.
 
 ### If your relationship uses many, why is a list appropriate?
-Dynamic size, Order preserved 
+A LIST IS APPROPRIATE FOR:
+Dynamic size: this means it grows the more the "Customer" orders eyeglasses.
+Order preserved: this means it can chronologically track when each pair of eyeglasses were bought.
+Simple access: to iterate through or fetch the latest pair of eyeglasses.
 
 ### LLM Prompt Used AND Proof
 ![LLM.1](ImagesQ1/LLM-2.0.png)
