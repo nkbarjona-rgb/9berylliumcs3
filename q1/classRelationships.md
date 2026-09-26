@@ -30,25 +30,26 @@ Action Phrase: "owns"
 Multiplicity: 1 : 0 (One To Many)
 
 Explanation: A customer can own zero or many pairs of eyeglasses, while each eyeglasses object belongs to one customer. This lets us store multiple object references in a Python List. (rewrite)
-
+#
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](ImagesQ1/NewUML.png)
+#
 
 ## Python Implementation
 [View Python Source](classRelationships.py)
-
+#
 
 ## Test Run
 ![Relationship Test Run](ImagesQ1/Testrun.png)
-
-
+#
 
 ## Object Relationship Diagram
 ![Object Relationship Diagram](ImagesQ1/hehey)
-
+#
 
 ## Analysis
+#
 ### What is the association between your two classes?
 The association is a HAS-A relationship using the action phrase "owns". This represents ownership where the Customer class holds references to Eyeglasses objects rather than inheriting from them.
 #
