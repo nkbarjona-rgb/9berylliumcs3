@@ -40,7 +40,7 @@ Explanation: A customer can own zero or many pairs of eyeglasses, while each eye
 
 
 ## Test Run
-![Relationship Test Run](ImagesQ1/TestRun.png)
+![Relationship Test Run](ImagesQ1/Testrun.png)
 
 
 
