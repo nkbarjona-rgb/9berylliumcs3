@@ -59,7 +59,7 @@ A customer can own multiple pairs of eyeglasses, but each pair can still exist i
 
 ### 1\. Why did you choose your inheritance relationship?
 
-I chose ReadingGlasses as the child class because it is a specific type of Eyeglasses. It shares the same basic attributes and behaviors while adding features unique to reading glasses.
+I chose "ReadingGlasses" as the child class because it is a specific type of "Eyeglasses". It shares the same basic attributes and behaviors while adding features unique to reading glasses.
 
 ### 2\. How did inheritance reduce duplicate code?
 
@@ -75,6 +75,6 @@ Association only shows that two classes are connected. Aggregation is more speci
 
 ### 5\. How does your design follow the DRY principle?
 
-The `Eyeglasses` class stores all shared data and behavior in one place. `ReadingGlasses` inherits them instead of duplicating code, making the program easier to maintain.
+The "Eyeglasses" class stores all shared data and behavior in one place. "ReadingGlasses" inherits them instead of duplicating code, making the program easier to maintain.
 
 
