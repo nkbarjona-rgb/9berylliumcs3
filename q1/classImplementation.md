@@ -2,7 +2,7 @@
 ## Previous Activity
 Link to my previous activity:
 
-[q1/classObjectUML.md](classObjectUML.md)
+[Part I - Classes and Objects](classObjectUML.md)
 
 ## Design Revision
 - Changed the Description of the Class, and Design Explanation
