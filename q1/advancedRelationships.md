@@ -44,16 +44,16 @@ A customer can own multiple pairs of eyeglasses, but each pair can still exist i
 #
 
 ### Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](ImagesQ1/advancedClassDiagram.png)
 
 ### Python Implementation
 [View Python Source Code](advancedRelationships.py)
 
 ### Test Run
-![Test](ImagesQ1/advancedTestRunGGEZ.png)
+![Test](ImagesQ1/TestRunGGEZ.png)
 
 ### Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](ImagesQ1/advancedObjectDiagram.png)
 
 ### Reflection
 
