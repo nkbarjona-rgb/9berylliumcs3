@@ -29,6 +29,8 @@ Reading glasses are a type of eyeglasses. They inherit all the common attributes
 ### Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 
+#
+
 ### Aggregation Relationship
 
 Relationship: Customer HAS-A Eyeglasses
