@@ -1,2 +1,7 @@
+## SG8
+# ACTIVITY 3 
+TEST RUN / DOCUMENTATION: 
+![TestRun/Documentation](ImagesQ2/docu)\
 
-![TestRun/Documentation](ImagesQ2/Screenshot 2026-10-13 130604.png)
+CODE:
+![code](q2/sg8_encapsulation.py)
