@@ -15,3 +15,8 @@
 - [OOPact-PartII](q1/classImplementation.md)
 - [OOPact-PartIII](q1/classRelationships.md)
 - [OOPact-Part1V](q1/advancedRelationships.md)
+
+# QUARTER 2
+
+## SG8 idk
+
