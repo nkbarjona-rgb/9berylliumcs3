@@ -20,5 +20,7 @@
 
 # QUARTER 2
 
-## SG8 idk
+## Quarter 2 SG's
+- [SG8_ENCAPSULATION](q2/sg8_encapsulation.py)
+
 
