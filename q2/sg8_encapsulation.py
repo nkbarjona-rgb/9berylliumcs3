@@ -8,7 +8,7 @@ class BankAccount: #Creates a class named "BankAccount", this serves as a bluepr
       self.__account_number = account_number #Replaces old account number with new one
 
   @property # allows me to acces the balance like a normal attribute, instea of calling it a method
-  def balance(self): # same as above (po sir)
+  def balance(self): # same as text above (po sir)
       return self.__balance # returns current balance, so I can display it
 
   @balance.setter # controls what happens whenever I try to change the balance, the new ammount is stored in the varaible "amount"
@@ -26,12 +26,12 @@ class BankAccount: #Creates a class named "BankAccount", this serves as a bluepr
   def balance(self): # same as text above
       return self.__balance # returns stored balance so i can use or display it
 
-  @balance.setter
-  def balance(self, amount):
-      if amount >= 0:
-          self.__balance = amount
-      else:
-          print("Warning: Balance cannot be negative!")
+  @balance.setter # lets me control what happens when i try to change the balance
+  def balance(self, amount): #defines the setter.self which refers to the account, whilst amount is the new balance ill try to set
+      if amount >= 0: # checks if new balance is zero or positive
+          self.__balance = amount # if amount or new balance is valid, it saves as the accounts new balance
+      else: # if amount is negative, code goes to here
+          print("Warning: Balance cannot be negative!") # displays a warning without changing existing balance
 
 account = BankAccount("223201217232", 5000) # creates a bank account with account number "223201217232" and an intial balance of 5k pesos
 print("Account Number:", account.account_number) # dispalys account number by accessing its property
