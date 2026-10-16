@@ -1,17 +1,17 @@
 class BankAccount: #Creates a class named "BankAccount", this serves as a blueprint for creating bank accounts
-  def __init__(self, account_number, balance): # "__init__" is the constructor, it'll run automatically whenever i create a new back account. It'll also receive the acc. no. and initial balance
-      self.__account_number = account_number # Stores the acc. number in a private attribute, so that it cannot be directly accesed outside the class
-      self.__balance = 0 # Sets the balance to zero, before checing the balance that was given
-      self.balance = balance # Assigns initial balance using setter, and checks if ammount is valid before saving it
+  def __init__(self, account_number, balance): # "__init__" acts as the constructor, it will run automatically whenever i create a new back account. It'll also receive the account number and initial balance
+      self.__account_number = account_number # Stores account number as a private attribute, so that it cant be accesed directly outside the class
+      self.__balance = 0 # Sets balance to zero, before checking the balance that was given
+      self.balance = balance # Assigns initial balance using the setter, and checks if the ammount is valid before saving it
 
-  def set_account_number(self, account_number): # Creates a method that allows me to change the account number 
-      self.__account_number = account_number #Replaces old account number with new one
+  def set_account_number(self, account_number): # Creates a method that lets me change the account number 
+      self.__account_number = account_number # Replaces old account number with new one
 
-  @property # allows me to acces the balance like a normal attribute, instea of calling it a method
+  @property # allows me to acces the balance like a normal attribute, instead of calling it a method
   def balance(self): # same as text above (po sir)
-      return self.__balance # returns current balance, so I can display it
+      return self.__balance # returns current balance, so It can be displayed
 
-  @balance.setter # controls what happens whenever I try to change the balance, the new ammount is stored in the varaible "amount"
+  @balance.setter # controls what happens when I'll try to change the balance, the new value is stored in the varaible "amount"
   def balance(self, amount): # same as text above
       if amount >= 0: # checks if amount is zero or positive
           self.__balance = amount # if amount is valid, it then saves it as its new balance
