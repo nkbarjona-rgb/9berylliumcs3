@@ -38,12 +38,12 @@ print("Account Number:", account.account_number) # dispalys account number by ac
 print(f"Balance: P{account.balance:,.2f}") # displays balance in pesos, "f" lets me insert value into the text, whilst ",.2f" formats number properly
 
 account.set_account_number("962407621") # changes account number to "962407621," this is through the method i made earlier on in the code 
-account.balance = 2167 # changes the balance to 2167 pesos, setter will check ammount, and of course accept as its not negative
+account.balance = 2167 # changes the balance to 2167 pesos, setter will check ammount, and accept as its not negative
 
 print("\nUpdated Account Information") # displays heading to update that the info has been updated, whilst "\n" adds a blank line before the heading
 print("Account Number:", account.account_number) # displays new/updated account number
 print(f"Balance: P{account.balance:,.2f}") # displays new/updated balance
 
-account.balance = -8090 # this trys to change the balance to a negative amount, "setter" checks it and rejects the change because negative balance is not allowed
+account.balance = -8090 # tries to change balance to a negative amount, "setter" checks it and rejects the change because negative balance is not allowed
 
-print(f"Balance: P{account.balance:,.2f}") # displays current balance, since the negative amount was not accepted
+print(f"Balance: P{account.balance:,.2f}") # formats and displays current balance, since the negative amount was not accepted
