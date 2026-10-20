@@ -28,6 +28,10 @@ def getNumberofpages(self):
 
 def setNumberofpages(self, Numberofpages):
   return self.Numberofpages
+    if Numberofpages >= 0:
+      self.Numberofpages = Numberofpages
+    else: 
+      print(f'Warning! Pages cannot be zero!')
 
 #
 class Magazine(Publication):
@@ -40,18 +44,4 @@ def getIssueNumber(self):
 
 def setIssueNumber(self, IssueNumber):
   return self.IssueNumber
-
-  
-
-
-
-
-
-
-
-
-
-
-class Magazine(Publication):
-
 
