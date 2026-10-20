@@ -23,5 +23,5 @@
 ## Quarter 2 SG's
 - [SG8_ENCAPSULATION](q2/sg8_encapsulation.py)
 - [SG8_ENCAPSULATION-TEST RUN/DOCUMENTATION](q2/sg8_encapsulation.md)
-
+- [SG9 INHERITANCE](q2/sg9_Inheritance.py)
 
