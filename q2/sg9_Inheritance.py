@@ -15,7 +15,43 @@ def setTitle(self, title):
 def setAuthor(self, author):
   return self.setAuthor
 
-def displayInfo(self):
+def displayInfo():
   return self.displayInfo
+
+class Book(Publication):
+  def __init__(self, title, author, Numberofpages):
+    super().__init__(self, title, author, Numberofpages)
+    self.numberofpages
+
+def getNumberofpages(self):
+  return self.Numberofpages
+
+def setNumberofpages(self, Numberofpages):
+  return self.Numberofpages
+
+#
+class Magazine(Publication):
+  def __init__(self, title, author, IssueNumber):
+    super().__init__(self, title, author, IssueNumber)
+    self.Issuenumber
+
+def getIssueNumber(self):
+  return self.IssueNumber
+
+def setIssueNumber(self, IssueNumber):
+  return self.IssueNumber
+
+  
+
+
+
+
+
+
+
+
+
+
+class Magazine(Publication):
 
 
