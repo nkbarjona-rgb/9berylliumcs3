@@ -3,30 +3,32 @@ class Publication:
         self.title = title
         self.author = author
 
-  def getTitle(self):
-    return self.getTitle
+  def get_title(self):
+    return self.title
 
-  def getAuthor(self):
-    return self.getAuthor
+  def get_author(self):
+    return self.author
 
-  def setTitle(self, title):
-    return self.setTitle
+  def set_title(self, title):
+    self.title = title
   
   def setAuthor(self, author):
-    return self.setAuthor
+    self.author = author
 
-  def display_Info(self):
-    return self.display_Info
+  def display_info(self):
+    print(f"Title: {self.title}")
+    print(f"Author: {self.author}")
 
 class Book(Publication):
   def __init__(self, title, author, Numberofpages):
     self.Numberofpages = (Numberofpages)
+    self.title = title
+    self.author = author
 
   def getNumberofpages(self):
-    return self.Numberofpages
+    return f"Number of pages: {self.Numberofpages}"
 
   def setNumberofpages(self, Numberofpages):
-    return self.Numberofpages
     if Numberofpages >= 0: 
       self.Numberofpages = Numberofpages
     else: 
@@ -35,32 +37,34 @@ class Book(Publication):
 class Magazine(Publication):
   def __init__(self, title, author, Issue_Number):
     self.Issue_Number = Issue_Number
+    self.title = title
+    self.author = author
 
   def getIssue_Number(self):
-    return self.Issue_Number
+    return f"Issue Number: {self.Issue_Number}"
 
   def setIssue_Number(self, Issue_Number):
     return self.int(Issue_Number)
     if Issue_number >= 0: 
       self.Numberofpages = Numberofpages
     else: 
-      print(f'Warning! Issue Number cannot be zero or negative.')
+      print(f'Number of pages must be positive.')
 
 #hi
-PUB1 = Publication("Journal of Exp Psych9ology", "Author")
-Book1 = Book("Title", "Author", 202)
-Mgasin1 = Magazine("Title","Authors", 67)
+PUB1 = Publication("Journal of Experimental Psychology", "Ratchiff, R. & Van Dongen, H. ")
+Book1 = Book("The Hobbit", "J.R.R. Tolkien", 310)
+Mgasin1 = Magazine("National Geographic","Various Authors", 202)
 
-print("\nPublication Information")
-PUB1.display_Info()
+print("Publication Information")
+PUB1.display_info()
 
 print("\nBook Information")
 Book1.setNumberofpages(-670)  
-Book1.display_Info()
+Book1.display_info()
 print(Book1.getNumberofpages())
 
 print("\nMagazine Information")
-Mgasin1.display_Info()
+Mgasin1.display_info()
 print(Mgasin1.getIssue_Number())
 
 
