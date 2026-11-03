@@ -3,10 +3,10 @@ class Animal:
         self._name = name 
 
   def eat(self):
-    return self.eat
+    pass
     
   def make_sound(self):
-    return self.make_sound
+    pass
 
 class lion(Animal):
     def __init__(self, name):
