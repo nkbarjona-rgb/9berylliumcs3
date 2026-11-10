@@ -42,15 +42,15 @@ lion = lion("Simba")
 elephant = elephant("Dumbo")
 monkey = monkey("George")
 
-print(lion.make_sound())
-print(lion.eat())
+lion.make_sound()
+print(lion.eat()
 print("-----")
 
-print(elephant.make_sound())
-print(elephant.eat())
+elephant.make_sound()
+print(elephant.eat()
 print("-----")
 
-print(monkey.make_sound())
-print(monkey.eat())
+monkey.make_sound()
+print(monkey.eat()
 print("-----")
 
