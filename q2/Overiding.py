@@ -1,14 +1,14 @@
-class animal:
+class animal: # creates a parent class named animal
     def __init__(self, name):
-        self._name = name
+        self._name = name # stores animals name as an attribute
 
-    def eat(self):
-        pass
+    def eat(self): # defines the method for the animal to eat
+        pass # placeholder since "def eat(self)" has no code
 
-    def make_sound(self):
-        pass
+    def make_sound(self): # defines the method for the animals sound
+        pass # acts as a placeholder since the method has no code yet
 
-class lion(animal):
+class lion(animal): # creates a subclass named "lion" inside parent class "animal"
     def make_sound(self):
         return f"{self._name} roars loudly!"
 
